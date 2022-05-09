@@ -458,6 +458,7 @@ width: 80px;
 .hero_button_size {
   width: 129px;
   height: 40px;
+  margin: 0 auto;
 }
 
 .hero_button_text {
@@ -465,7 +466,11 @@ width: 80px;
   font-size: 14px;
   color: #fff;
 }
-
+.btn_see_All{
+  padding: 10px 0px 0px 32px;
+  font-size: 14px;
+  color: #fff;
+}
 .hand_sign{
 
   color: white;
@@ -638,6 +643,14 @@ padding: 0 0px 25px 0;
   text-align: center;
   color: white;
   padding: 0 410px 0 410px;
+}
+.full_width_section{
+  width: 100%;
+ 
+}
+
+.hero_sub_content1{
+  width: 100%;
 }
 /* Second Section End*/
 
